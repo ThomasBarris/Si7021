@@ -26,7 +26,8 @@
 // SI7021 I2C address is 0x40(64)
 #define si7021Addr 0x40
 
-// data pins for i2c, can be anything for ESP8266 for Arduino:
+// data pins for i2c, can be anything for ESP8266 
+// for Arduino:
 // Board              I2C / TWI pins
 // Uno, Ethernet      A4 (SDA),   A5 (SCL)
 // Mega2560           20 (SDA),   21 (SCL)
